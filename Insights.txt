@@ -1,0 +1,8 @@
+# Sample insights
+1)Women are more likely to shop comapred to men
+2)Maharashtra,Karnataka and UP are top 3 states in terms of orders
+3)Amazon,FLipkart and Myntra are top 3 channels for sales
+
+# Conclusion
+Target women of age group (30-49) form states of Maharashtra, Karnataka and UttarPradesh
+by offering offers available on Amzon, FLipkart or Myntra.
